@@ -1,7 +1,7 @@
 
 # If Canadian Regions were Sized relative to their GDP Contribution
 # Author: ZygoMattic 
-# Github: 
+# Github: https://github.com/Fehiroh
 
 
 #  Libraries ###############################################################
