@@ -8,3 +8,5 @@ In light of talks about Wexit, I thought it would be interesting to visualize th
 
 # Structure 
 
+## Code can be found [Here](https://github.com/Fehiroh/canadian_gdp_cartogram_code/blob/master/canadian_gdp_cartogram.R)
+## Original Data can be found [Here](https://github.com/Fehiroh/canadian_gdp_cartogram_code/tree/master/source_data)
